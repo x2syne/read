@@ -1,13 +1,8 @@
 ## Hi there 👋
 
-### 👤 About Me
+### 👤 About Me      credits: alonexmz7
 
-- 🔭 Currently working on: **[SG Priv](https://discord.gg/sgpriv)**
-- 📫 How to reach me: [Discord](https://discord.com/users/1038590507149951077)
-- 🌍 Location: **Lisbon** 🐐
-- 🔥 Age: 17y
-  
-![Profile views](https://komarev.com/ghpvc/?username=alonexmz7&color=blueviolet&style=flat)
+working on: **[Stumble Future]((https://discord.gg/S4Uc4CaDcm))**
 
 ---
 
@@ -18,8 +13,7 @@
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><strong>Python</strong>
     </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" /><br /><strong>Lua</strong>
+</td>
     </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" /><br /><strong>TypeScript</strong>
